@@ -1,4 +1,4 @@
-name: Slack Alert Practice
+name: Slack Alert Practice 
 
 on:
   push:
